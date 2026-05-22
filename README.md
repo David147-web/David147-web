@@ -36,16 +36,13 @@ Here are some projects I've been working on:
 - Learn new programming languages and frameworks
 - Contribute to open-source projects
 
-## GitHub Stats
-
-![David147-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=David147-web&show_icons=true&theme=default)
 
 ## Connect With Me
 
 Feel free to reach out if you'd like to collaborate or discuss anything related to computer engineering:
 
 - LinkedIn: [David Martín Yanguas](https://www.linkedin.com/in/david-martín-yanguas-6002b3408/)
-- University: Universidad Politécnica de Madrid
+- University: Universidad Politécnica de Madrid - Campus Sur UPM - Escuela Técnica Superior de Ingenieria de Sistemas Informáticos
 
 ## Latest Work
 
